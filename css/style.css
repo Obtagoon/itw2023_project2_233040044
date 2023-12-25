@@ -1,0 +1,47 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #cdc2c2;
+}
+body {
+  font-family: 'Merriweather', serif;
+}
+
+#About {
+  background-color: #947979;
+}
+
+#Hobby {
+  background-color: #cdc2c2;
+}
+#Gallery {
+  background-color: #947979;
+}
+#contact {
+  background-color: #cdc2c2;
+}
+
+footer {
+  padding-top: 2rem;
+  background-color: #443434;
+}
+section {
+  padding-top: 5rem;
+}
+
+.display-4 {
+  font-family: 'Gloock', serif;
+}
+
+.lead {
+  color: #0b0908;
+}
+
+h2 {
+  font-family: 'Marcellus SC', serif;
+}
+.fw-bold {
+  color: #efd8c3;
+}
+.fw-bold:hover {
+  color: rgb(119,  177,  180);
+}
